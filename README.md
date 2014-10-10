@@ -7,4 +7,9 @@ Installation:
 =============
 
 Copy the entire package folder to your Sublime Text packages directory. Rename the folder to "WhatsMyIP". Restart Sublime Text Editor if it is already open.
-It will appear in the package control window or you can use ctrl-shift-w.
+
+Usage:
+======
+Place your cursor where you would like to have the IP address.
+Then use ctrl-shift-w or find it in package control.
+
